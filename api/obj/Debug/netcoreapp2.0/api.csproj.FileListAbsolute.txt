@@ -19,4 +19,3 @@ C:\Users\geset\source\repos\numbertrivia\api\obj\Debug\netcoreapp2.0\api.Assembl
 C:\Users\geset\source\repos\numbertrivia\api\obj\Debug\netcoreapp2.0\api.AssemblyInfo.cs
 C:\Users\geset\source\repos\numbertrivia\api\obj\Debug\netcoreapp2.0\api.dll
 C:\Users\geset\source\repos\numbertrivia\api\obj\Debug\netcoreapp2.0\api.pdb
-C:\Users\geset\source\repos\numbertrivia\api\obj\Debug\netcoreapp2.0\api.csprojAssemblyReference.cache
